@@ -1,0 +1,10 @@
+h1 {color: darkblue;}
+a {text-decoration: none;}
+.image h4 {color: darkblue; }
+.image p {color: darkblue;}
+.discription td {background-color: #CCCCFF;}
+.navigation h4:visited {color: darkblue; text-decoration: none;}
+.navigation h4: link {color: darkblue; text-decoration: none;}
+.navigation h4:hover {color: #FF0000; text-decoration: none;}
+#blue {font-family: Verdana; color: #0000FF; font-style: 10pt; font-weight: bold;}
+body {background-color: #CCFFFF;}
